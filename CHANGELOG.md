@@ -1,2 +1,3 @@
-## v1.0.0
- -Versión inicial
+## v1.0.1
+- Mejora menor en UI
+
